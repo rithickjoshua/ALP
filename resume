@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Rithick Joshua</title> 
+   <style>
+    img {
+        width: 100px;
+        border-radius: 50px;
+        float: left;
+         margin-right: 10px;
+    }
+    .username{
+        font-weight: bold;
+    }
+   </style>
+</head>
+<body>
+    <img src="images/profile.webp">
+    <h1>RESUME</h1>
+    <h2>Objective</h2>
+    <p>	Currently, a student, looking for intern opportunities that can test me as well as help me gain experience and exposure. </p>
+    <h2>Softskills</h2>
+    <p>Public Speaking | Leadership | Problem-Solving | Creativity | Ability to Multitask 
+        | Fluent Communication </p>
+    <h2>Programming</h2>
+    <p>Java | Python | C </p>
+    <h3>Familiar</h3> 
+    <p> HTML | Excel | JS</p>
+    <h2>Projects</h2>
+    <h2>COURSEWORK | UNDERGRADUATE</h2>
+    <p>Data Structures and Algorithms| Problem Solving| Applied Data Science with python|
+        Object Oriented programming| Principles of programming paradigmns</p>
+    <h2>Links</h2>
+    <a href="https://github.com/rithickjoshua">Github</a>
+    <a href="https://www.linkedin.com/in/rithick-joshua-973361251/">Linkedin</a>
+    <a href="https://www.hackerrank.com/rithickjoshua761">Hackerrank</a>
+    <p class="username">rithickjoshua7613@gmail.com</p>
+</body>
+</html>
